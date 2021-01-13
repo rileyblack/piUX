@@ -1,4 +1,4 @@
-# piIX
+# piUX
 Employed VirtualBox virtual machine to access Linux-based [Rasperry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) C++ compiler to create custom system utilities for file management.
 
 ## Practical Take-Away Experience
