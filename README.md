@@ -11,14 +11,14 @@ Employed VirtualBox virtual machine to access Linux-based [Rasperry Pi Desktop](
 * [Rasperry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/)
 
 ## Utilities
-*	mymv        Used to move and rename files ([mv](https://manpages.debian.org/stretch/coreutils/mv.1.en.html))
-*	mycp   		  Used to copy files from source to destination named as parameters
-*	myls   		  Used to list contents of directories and list names of other files
-*	myls – l   	Used to list long form of ls (name, permissions, owner, group, size, time)
-*	mycat   	  Used to display contents of files named as parameters
-*	myrm   		  Used to removes files named as parameters
-*	mydiff  		Used to compares two files named as parameters
-*	mystat		  Used to output all information of file named as parameter
+*	mymv    Used to move and rename files ([mv](https://manpages.debian.org/stretch/coreutils/mv.1.en.html))
+*	mycp   		  Used to copy files from source to destination named as parameters ([cp](https://manpages.debian.org/stretch/coreutils/cp.1.en.html))
+*	myls   		  Used to list contents of directories and list names of other files ([ls](https://manpages.debian.org/stretch/coreutils/ls.1.en.html))
+*	myls – l   	Used to list long form of ls (name, permissions, owner, group, size, time) ([ls](https://manpages.debian.org/stretch/coreutils/ls.1.en.html))
+*	mycat   	  Used to display contents of files named as parameters ([cat](https://manpages.debian.org/stretch/coreutils/cat.1.en.html))
+*	myrm   		  Used to removes files named as parameters ([rm](https://manpages.debian.org/stretch/coreutils/rm.1.en.html))
+*	mydiff  		Used to compares two files named as parameters ([diff](https://manpages.debian.org/buster/diffutils/diff.1.en.html))
+*	mystat		  Used to output all information of file named as parameter ([stat](https://manpages.debian.org/buster/coreutils/stat.1.en.html))
 
 Commands also support full error tracking and reporting to the user.
 
