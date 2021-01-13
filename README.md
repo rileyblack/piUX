@@ -1,7 +1,7 @@
 # piIX
-Employed VirtualBox virtual machine to access Rasperry Pi Desktop C++ compiler to create custom system utilities for file management.
+Employed VirtualBox virtual machine to access Linux-based Rasperry Pi Desktop C++ compiler to create custom system utilities for file management.
 
-##Practical Take-Away Experience
+## Practical Take-Away Experience
 •	C++
 •	Virtual machines (VirtualBox)
 •	Object-oriented programming, basic language constructs, classes, and data types
@@ -9,7 +9,7 @@ Employed VirtualBox virtual machine to access Rasperry Pi Desktop C++ compiler t
 •	Linux-based Raspberry Pi Desktop system and services
 •	ssh, scp, sftp
 
-##Utilities
+## Utilities
 •	mymv        Used to move and rename files
 •	mycp   		  Used to copy files from source to destination named as parameters
 •	myls   		  Used to list contents of directories and list names of other files
@@ -21,7 +21,7 @@ Employed VirtualBox virtual machine to access Rasperry Pi Desktop C++ compiler t
 
 Commands also support full error tracking and reporting to the user.
 
-##Structure
+## Structure
 This project was designed through a file manager class that encapsulates both file information pulled from the system, as well as operations that can be performed on said files. Each file manager instance handles a single file, which includes the following information:
 •	Name
 •	Type
