@@ -1,9 +1,9 @@
 # piUX
-Employed VirtualBox virtual machine to access Linux-based [Rasperry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) C++ compiler to create custom system utilities for file management.
+Employed [VirtualBox](https://www.virtualbox.org/) virtual machine to access Linux-based [Rasperry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) C++ compiler to create custom system utilities for file management.
 
 ## Practical Take-Away Experience
 *	C++
-*	Virtual machines (VirtualBox)
+*	Virtual machines ([VirtualBox](https://www.virtualbox.org/))
 *	Object-oriented programming, language constructs, classes, and data types
 *	Linux manual pages and documentation
 *	Linux-based Raspberry Pi Desktop system and services
