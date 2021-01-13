@@ -17,7 +17,7 @@ Employed [VirtualBox](https://www.virtualbox.org/) virtual machine to access Lin
 *	myls–l ----- Used to list long form of ls (name, permissions, owner, group, size, time) ([ls](https://manpages.debian.org/stretch/coreutils/ls.1.en.html))
 *	mycat ----- Used to display contents of files named as parameters ([cat](https://manpages.debian.org/stretch/coreutils/cat.1.en.html))
 *	myrm ----- Used to remove files named as parameters ([rm](https://manpages.debian.org/stretch/coreutils/rm.1.en.html))
-*	mydiff ----- Used to compares two files named as parameters ([diff](https://manpages.debian.org/buster/diffutils/diff.1.en.html))
+*	mydiff ----- Used to compare two files named as parameters ([diff](https://manpages.debian.org/buster/diffutils/diff.1.en.html))
 *	mystat ---- Used to output all information of file named as parameter ([stat](https://manpages.debian.org/buster/coreutils/stat.1.en.html))
 
 Commands also support full error tracking and reporting to the user.
