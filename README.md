@@ -1,14 +1,13 @@
 # piUX
-Employed [VirtualBox](https://www.virtualbox.org/) virtual machine to access Linux-based [Rasperry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) C++ compiler to create custom system utilities for file management.
+Employed [VirtualBox](https://www.virtualbox.org/) virtual machine to access Linux-based [Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) C++ compiler to create custom system utilities for file management.
 
 ## Practical Take-Away Experience
 *	C++
 *	Virtual machines ([VirtualBox](https://www.virtualbox.org/))
 *	Object-oriented programming, language constructs, classes, and data types
 *	Linux manual pages and documentation
-*	Linux-based Raspberry Pi Desktop system and services
+*	Linux-based [Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) system and services
 *	ssh, scp, sftp
-* [Rasperry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/)
 
 ## Utilities
 *	mymv ----- Used to move and rename files ([mv](https://manpages.debian.org/stretch/coreutils/mv.1.en.html))
